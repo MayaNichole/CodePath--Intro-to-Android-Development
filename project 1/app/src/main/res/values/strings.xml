@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hello Squirrel</string>
+
+    <string name="first_name">💚 Maya</string>
+    <string name="last_name">Cooper 💚</string>
+    <string name="full_name">%s %s</string>
+
+    <string name="profile_bio_text">\n Hello there! 😊👋\n I\'m a computer science master\'s student\n studying at Georgia Southern University.\n I hope to one day be a UX/UI developer.</string>
+
+    <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
+    <string name="profile_hobby_first_text">✨ Gaming 🎮👾🕹️</string>
+    <string name="profile_hobby_second_text">✨ Drawing 🖌️🎨📒</string>
+    <string name="profile_hobby_third_text">✨ Traveling 🧳✈️🗺️</string>
+</resources>
