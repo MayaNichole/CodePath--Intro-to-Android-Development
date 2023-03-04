@@ -4,7 +4,7 @@
 
 Submitted by: **Maya Cooper**
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Summary
 
